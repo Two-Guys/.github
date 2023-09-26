@@ -17,4 +17,5 @@ We moedigen samenwerking en feedback aan. Als u geïnteresseerd bent in ons proj
 Bedankt voor uw interesse in ons project, en we hopen dat u geniet van wat we te bieden hebben. Blijf op de hoogte voor updates en verdere ontwikkelingen!
 
 Met vriendelijke groet,
+
 Lucas Miserez & Rob De Rop
