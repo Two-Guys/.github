@@ -1,6 +1,6 @@
 ## Welkom op onze GitHub-pagina voor Smart Apps Development!
 
-Welkom op ons GitHub-projectpagina, waar we met trots ons project voor het vak Smart Apps Development delen. Wij zijn Rob de Rop en Lucas Miserez, en we zijn vastbesloten om een indrukwekkend project te creëren dat zowel onze passie voor app-ontwikkeling weerspiegelt als onze toewijding aan het leren en groeien in dit spannende vakgebied.
+Welkom op ons GitHub-projectpagina, waar we met trots ons project voor het vak Smart Apps Development delen. Wij zijn Lucas Miserez en Rob De Rop, en we zijn vastbesloten om een indrukwekkend project te creëren dat zowel onze passie voor app-ontwikkeling weerspiegelt als onze toewijding aan het leren en groeien in dit spannende vakgebied.
 
 ### Over ons project
 
